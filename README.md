@@ -1,0 +1,1 @@
+# notecard_translator
